@@ -9,3 +9,11 @@ I would have loved to show an animation of the lines being drawn and displaying 
 There are some bugs to the golden ratio as after a certain number of clicks the game will break, and the camera view of the lines is very ugly to say the least. The width of the lines is dynamic though, and will grow the more the camera is distant from the graph in order to TRY to make it seem like an infinite loop. 
 
 For any questions please feel free to contact me, I hope to hear from you again.
+
+Known bugs:
+
+After a certain number of fibonacci numbers are generated they become negative and will show up below everything in the bar graph.
+
+After a certain number of button clicks the camera will be too far back and not render the lines anymore in the golden ratio graph
+
+After a certain number of clicks the golden ratio graph will crash 
