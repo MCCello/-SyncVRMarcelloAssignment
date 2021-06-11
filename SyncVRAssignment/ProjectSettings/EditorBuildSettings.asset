@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: fe7ad2fe5d08ad84ead3a1df8b97d83e
+  - enabled: 1
+    path: Assets/Scenes/BarGraph.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Scenes/GoldenGraph.unity
+    guid: 6c391b66f7fc5f34fbcbca7ff8837fcc
+  m_configObjects: {}
